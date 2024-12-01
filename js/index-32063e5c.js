@@ -10627,7 +10627,7 @@ const Za = $3({
                     me("video", { id: "background-video",width:350, style:"margin-top:30px;", "playsinline": true, "autoplay":true, "muted":true, "loop":true}, [
                         me("source", {  src: "https://res.cloudinary.com/dswpwymai/video/upload/v1722734675/IMG_3479_ko3les.mp4", type: "video/mp4" }),
                     ]),
-                    me("li", { class: "text-center" }, "launched on pump.fun"),
+                    me("li", { class: "text-center" }, ""),
                     
                     // me("li",  { class: "text-center" }, "mint authority revoked by WIF"),
                     // me("li",  { class: "text-center" }, "freeze authority revoked by POPCAT"),
