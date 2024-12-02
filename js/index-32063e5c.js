@@ -10902,7 +10902,7 @@ cd3 = C6(() =>     me(
         )),
         rd1 = C6(() =>  me("div", { class: "row row-2" }, [
             me("img", { src: "fl-reveal-2.webp", alt: "😧", class: "emoji-img" }),
-            me("img", { src: "5938160288564102486.jpg", alt: "😧", class: "emoji-img" }),
+            me("img", { src: "OIF.jpeg", alt: "😧", class: "emoji-img" }),
              ])
          ),
         nerd1 = C6(() =>     me(
