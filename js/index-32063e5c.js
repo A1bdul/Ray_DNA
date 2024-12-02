@@ -10875,7 +10875,7 @@ cd2 = C6(() =>     me(
 )),
 
 sol1 = C6(() =>  me("div", { class: "row row-2" }, [
-    me("img", { src: "https://th.bing.com/th/id/OIP.ntH9NGLCIM_HKeWFNLJNkQHaHa?w=165&h=180&c=7&r=0&o=5&pid=1.7", alt: "😂", class: "emoji-img" }),
+    me("img", { src: "photo_2024-12-02_08-13-50.jpg", alt: "😂", class: "emoji-img" }),
     ]),
  
 ),
