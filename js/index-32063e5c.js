@@ -10901,7 +10901,7 @@ cd3 = C6(() =>     me(
         
         )),
         rd1 = C6(() =>  me("div", { class: "row row-2" }, [
-            me("img", { src: "https://firstledger.net/images/fl-reveal-2.webp", alt: "😧", class: "emoji-img" }),
+            me("img", { src: "fl-reveal-2.webp", alt: "😧", class: "emoji-img" }),
             me("img", { src: "https://th.bing.com/th?id=OIP.Z4NoQEb8sAETU4xYYXcbqAHaHk&w=247&h=252&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2", alt: "😧", class: "emoji-img" }),
              ])
          ),
