@@ -10823,7 +10823,7 @@ const mc = U3(fc, [
     C6 = (r) => (Tr("data-v-896e6548"), (r = r()), Cr(), r),
     yc = {
         class:
-            "multiswap-section h-screen flex flex-col items-center justify-center px-2", style: "height: 300vh;"
+            "multiswap-section h-screen flex flex-col items-center justify-center px-2", style: "height: 160vh;"
     },
     vc = C6(() =>
         me("h2", { class: "text-center mb-4 lg:mb-8" }, "How to Buy", -1)
@@ -10950,7 +10950,7 @@ me("img", { src: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAsJCQc
 ])
 ),
     // wx = C6(() => ),
-    Tc = [vc, bc,cf, cf1, get1, cd, cd2, sol1, cd11, cd3, rd1, ca2,  ];
+    Tc = [vc, bc,cf, get1, cd, cd2, sol1, cd11, cd3, rd1, ca2,  ];
 function Cc(r, e, t, n, i, s) {
     return p1(), Y1("section", yc, Tc);
 }
