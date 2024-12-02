@@ -7887,7 +7887,7 @@ function _a(r, e, t, n, i, s) {
                             "button",
                             {
                                 onClick:
-                                    e[2] || (e[2] = (o) => r.navigate("https://t.me/DNAonSolana")),
+                                    e[2] || (e[2] = (o) => r.navigate("")),
                             },
                             "Telegram"
                         ),
@@ -7896,7 +7896,7 @@ function _a(r, e, t, n, i, s) {
                             {
                                 onClick:
                                     e[3] ||
-                                    (e[3] = (o) => r.navigate("https://twitter.com/DNAonX")),
+                                    (e[3] = (o) => r.navigate("")),
                             },
                             "Twitter"
                         ),
